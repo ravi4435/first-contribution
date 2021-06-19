@@ -1,2 +1,3 @@
 # first-contribution
-seomething
+this is my first contribution
+
